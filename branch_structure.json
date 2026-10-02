@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "ops/1211-secrets-rotation-config-validation",
+    "origin"
+  ],
+  "parent": {
+    "main": null,
+    "ops/1211-secrets-rotation-config-validation": "main",
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "ops/1211-secrets-rotation-config-validation",
+    "origin"
+  ]
+}
